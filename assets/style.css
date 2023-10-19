@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #122932;
+    font-family: 'Oswald', sans-serif;
+    font-size: large;
+}
+
+#banner{
+    background-image: url('images/keyboard.jpg');
+    background-position: center;
+    min-height: 300px;
+}
+.nav-link{
+    color:#f4d35e;
+}
+.nav-link:hover{
+    color:#f4d35e;
+}
+.services h4, .skills h4{
+    color:#f4d35e;
+}
+.skills h4{
+    text-align: center;
+}
+#aboutme,#contact{
+    background-color:#122932 ;
+}
+.footer a{
+    text-decoration: none;
+    color:#f4d35e ;
+}
+.projects p,.info{
+    color:#f4d35e;
+}
+.navbar-toggler{
+    background-color:#f4d35e ;
+}
+.things{
+    background-color: #0D1821;
+}
